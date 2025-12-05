@@ -1,0 +1,1 @@
+# 05.12.25_exa_fn_infomatica_regular
