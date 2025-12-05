@@ -41,7 +41,7 @@ Examina exhaustivamente los precios de productos de navidad en la ciudad de posa
 * Copia lo siguiente y modifica donde te solicita para que se vean tus archivos generados:
 *  ```txt
       # EXAMEN FINAL 05-DIC-25 TURNO NOCHE
-      # REGULAR INCOMPLETO
+      # REGULAR COMPLETO
       ## TECNICATURA EN ADMINISTRACIÓN EMPRESAS // SEGURIDAD & HIGIENE
       
       ## Precios comparativos de Artículos de Navidad Posadas y Encarnación.
