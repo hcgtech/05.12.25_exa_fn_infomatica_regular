@@ -22,6 +22,8 @@ Examina exhaustivamente los precios de productos de navidad en la ciudad de posa
 **Paso 3:**
 * Abre el Procesador de texto de google y crea un archivo [[pulsa aquí para abrir el Procesador de Texto](https://docs.google.com/document/u/0/)]
   _Debes respetar la siguiente consigna_
+* Crea un documento llamado Informe_precios y pega lo generado en perplexity.
+* FORMATEA SEGUN LAS SIGUIENTES CONSIGNAS:  
 > * Primer página debe ser la Portada. * Sección 1, Portada
 > * Segunda página estará la Tabla de Contenido o Indice. * Sección 2, Indice y Cuerpo del texto
 > * Tercera página debe empezar todo el cuerpo del texto
@@ -29,6 +31,7 @@ Examina exhaustivamente los precios de productos de navidad en la ciudad de posa
 * **REPASA LOS SIGUIENTE PUNTOS PARA VERIFICAR QUE HAS AGREGADO TODOS LOS DETALLES:**
 > * Recuerda colocar el encabezado y pie de pagina en los lugares indicados.
 > * Recuerda armar la tabla de contenido y la nota al pie.
+
 **Paso 4:**
 * Abre gamma.app
 * Solicita crear una presentación con el texto generado en perplexity de 3 diapositivas.
